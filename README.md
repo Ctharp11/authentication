@@ -1,0 +1,1 @@
+This repo is full of files that show different methods of user authentication, primarily using Node. 
