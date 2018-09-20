@@ -1,4 +1,8 @@
-const passport = require("passport");
+const session = require('express-session');
+const cookieparser = require('cookie-parser');
+const passport = require('passport');
+const LocalStrategy = require('passport-local').Strategy;
+
 const mongoose = require("mongoose");
 const User = mongoose.model("User");
 

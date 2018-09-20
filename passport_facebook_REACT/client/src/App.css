@@ -1,0 +1,16 @@
+.nav {
+    display: flex;
+}
+
+.facebook {
+    background-color: rgb(66,103,178);
+    padding: .5rem 1.5rem;
+    border: none;
+    color: white;
+    text-align: center; 
+    margin: 1rem;
+}
+
+.facebook:hover {
+    cursor: pointer;
+}
