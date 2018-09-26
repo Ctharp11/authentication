@@ -1,0 +1,11 @@
+.nav {
+  height: 100px;
+  background-color: rgb(245, 245, 245);
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+}
+
+.container {
+  padding: 25px;
+}
